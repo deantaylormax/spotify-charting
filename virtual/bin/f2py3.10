@@ -1,4 +1,4 @@
-#!/Users/lawstata/Work/bootcamp/Spotify_charting/virtual/bin/python3
+#!/Users/lawstata/Work/bootcamp/spotify-charting/virtual/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

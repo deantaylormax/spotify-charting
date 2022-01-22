@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/lawstata/Work/bootcamp/Spotify_charting/virtual"
+VIRTUAL_ENV="/Users/lawstata/Work/bootcamp/spotify-charting/virtual"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
